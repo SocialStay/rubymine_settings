@@ -1,0 +1,7 @@
+Copy keymap.xml into ~/Library/RubyMine{version}/keymaps.
+
+Restart RubyMine.
+
+Go to Preferences and select the new keymap.
+
+Enjoy exponentially increased productivity.
